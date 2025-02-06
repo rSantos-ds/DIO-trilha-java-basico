@@ -3,7 +3,7 @@ package ContaBanco;
 import java.util.Scanner;
 
 public class ContaTerminal {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
 
         Scanner entrada = new Scanner(System.in);
 
